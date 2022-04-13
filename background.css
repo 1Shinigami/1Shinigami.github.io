@@ -50,7 +50,6 @@ scrollbar-width: 100%;
   top: 50%;
   text-align:center;
   transform:translate(-50%, -50%);
-  height: auto;
 }
 
 h1 {
@@ -88,7 +87,6 @@ h5{
 	margin: 0;
 	padding: 0;
 	text-align: center;
-	margin-top: 550px;
     z-index: 1;
     top: 0;
     width: 100%;
