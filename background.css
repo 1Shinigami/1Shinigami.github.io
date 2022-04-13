@@ -7,10 +7,7 @@ html {
 body {
   margin:0;
   background-repeat: no-repeat;
-  background-attachment: scroll;
-  /* padding-bottom: 500px; */
-  /* background-position: top; */
-  scrollbar-width: 100%;
+ 
   
 }
 
@@ -49,9 +46,9 @@ scrollbar-width: 100%;
 .content {
      
   left:50%;
-  position:fixed;
+  position:absolute;
+  top: 50%;
   text-align:center;
-  top:50%;
   transform:translate(-50%, -50%);
 }
 
@@ -242,7 +239,7 @@ h5{
   
  
     .about {
-  padding-top: 620px;
+  padding-top: 630px;
   /* padding-top: 20px; */
   text-align: justify;
   /* background-color: gray; */
@@ -350,6 +347,10 @@ h5{
   text-decoration: underline;
 }
 
+.iim{
+    height: fit-content;
+    width: 100%;
+}
 
 .green {
  border-radius: 30px;
