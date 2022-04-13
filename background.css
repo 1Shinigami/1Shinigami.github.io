@@ -27,6 +27,7 @@ body {
 /* max-width: 100%; */
 margin: 0;
 padding: 0;
+box-sizing: content-box;
 }
 
 .bg2 {
@@ -43,7 +44,7 @@ padding: 0;
 }
 
 .content {
-  box-sizing: border-box;
+  box-sizing: content-box;
   left:50%;
   position:absolute;
   top: 50%;
