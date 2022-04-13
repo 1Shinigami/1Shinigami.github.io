@@ -393,6 +393,12 @@ p3{
   font-weight: 900;
   color: black;
 }
+
+#notice{
+  color: red;
+  font-weight: 900;
+  font-family: raleway;
+}
 p4{
   font-size: 17px;
   padding-top: 5px;
