@@ -27,7 +27,6 @@ body {
 /* max-width: 100%; */
 margin: 0;
 padding: 0;
-scrollbar-width: 100%;
 }
 
 .bg2 {
@@ -238,7 +237,7 @@ h5{
   
  
     .about {
-  padding-top: 630px;
+  margin-top: 620px;
   /* padding-top: 20px; */
   text-align: justify;
   /* background-color: gray; */
