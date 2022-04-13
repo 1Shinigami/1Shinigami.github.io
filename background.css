@@ -43,7 +43,7 @@ padding: 0;
 }
 
 .content {
-     
+  box-sizing: border-box;
   left:50%;
   position:absolute;
   top: 50%;
